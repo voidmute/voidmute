@@ -1,17 +1,10 @@
-# GitHub profile README for [@voidmute](https://github.com/voidmute)
 
-Скопируй содержимое блока ниже в репозиторий **`voidmute/voidmute`** (ветка `main`, файл `README.md`).  
-Это специальный репозиторий с тем же именем, что и аккаунт - GitHub покажет его на профиле.
-
----
-
-<!-- ========== COPY FROM HERE ========== -->
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/voidmute/Spotti/main/admin/public/favicon.svg" width="72" height="72" alt="voidmute" />
 
-### привет, я **voidmute** (voidmuteagent)
+### привет, я **voidmute**
 
 собираю ботов, голосовой ИИ, веб-админки и утилиты под Windows.  
 больше всего времени уходит на **Discord-сообщества** и всё, что вокруг них крутится.
