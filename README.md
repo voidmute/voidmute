@@ -1,62 +1,136 @@
-<h1 align="left">voidmute</h1>
+<div align="center">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/map-pin.svg" width="14" height="14" alt="" />
-  &nbsp;somewhere on earth · independent coder
-</p>
+<img src="https://github.com/voidmute.png" width="100" height="100" alt="voidmute" style="border-radius: 50%;" />
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1400&color=8B949E&width=520&lines=i+write+compilers+in+assembly;windows+tools+at+2am;no+standups%2C+just+ship" alt="typing" />
-</p>
+# voidmute
 
-<img align="right" alt="kyto" width="200" src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" />
+**independent coder** — assembly, windows gremlins, local-first tools
 
-<br clear="right"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=i+write+compilers+in+NASM;speech-to-text+for+Windows;no+standups%2C+just+ship" alt="typing" />
 
-not a company. not an agency. one person building stuff that runs **local** and stays **yours**.
+<br />
 
-i like NASM, weird Windows APIs, and tools that don't phone home. if it needs a login screen before it works, i'm probably not interested.
+[![Kyto](https://img.shields.io/badge/kyto-privacy--first%20language-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/voidmute/kyto)
+[![Spotti-Voice](https://img.shields.io/badge/spotti--voice-speech--to--text-5865F2?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/Spotti-Voice)
+[![v9](https://img.shields.io/badge/v9-desktop%20tools-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/v9)
+
+</div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/zap.svg" width="18" height="18" align="top" alt="" />&nbsp;shipping
+<div align="center">
 
-**[kyto](https://github.com/voidmute/kyto)** — privacy-first language + **kura** compiler (~21 KB of x86-64 ASM). one `kura compile` spits out `.env`, SQL, TS, JSON, deploy scripts. zero network at compile time. `kura init` stamps every file: *Kyto was here*.
+not a company. not an agency. one person building software that runs **local** and stays **yours**.
+
+i like NASM, weird Windows APIs, and tools that don't phone home.
+
+</div>
+
+---
+
+## Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" width="72" alt="Kyto" />
+<br /><br />
+<b><a href="https://github.com/voidmute/kyto">Kyto</a></b>
+<br />
+<small>language + kura compiler</small>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/windowsterminal/58a6ff" width="48" alt="Spotti-Voice" />
+<br /><br />
+<b><a href="https://github.com/voidmute/Spotti-Voice">Spotti-Voice</a></b>
+<br />
+<small>speech-to-text · Windows</small>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/cplusplus/58a6ff" width="48" alt="v9" />
+<br /><br />
+<b><a href="https://github.com/voidmute/v9">v9</a></b>
+<br />
+<small>D3D12 · x64 overlay</small>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+**Kyto** — privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` → `.env`, SQL, TypeScript, JSON, deploy script. no network at compile time.
 
 ```bash
 kura init && cp .kyto.config.example .kyto.config && kura compile
 ```
 
-<img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/external-link.svg" width="13" height="13" align="top" alt="" /> [wiki](https://github.com/voidmute/kyto/wiki) · [releases](https://github.com/voidmute/kyto/releases/latest) · [container](https://github.com/voidmute/kyto/pkgs/container/kyto)
+[wiki](https://github.com/voidmute/kyto/wiki) · [releases](https://github.com/voidmute/kyto/releases/latest) · [container](https://github.com/voidmute/kyto/pkgs/container/kyto)
 
 <br />
 
-**[spotti-voice](https://github.com/voidmute/Spotti-Voice)** — <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/mic.svg" width="14" height="14" align="top" alt="" /> speech-to-text for Windows. floating pill UI, talk, get text, inject it wherever your cursor is. STT, not a SaaS wrapper.
+**Spotti-Voice** — speech-to-text for Windows. floating pill UI, talk, get text, inject it anywhere. STT, not a SaaS wrapper.
 
 <br />
 
-**[v9](https://github.com/voidmute/v9)** — <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/monitor.svg" width="14" height="14" align="top" alt="" /> desktop tooling for Meccha Chameleon. D3D12, x64, in-game overlay.
+**v9** — desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/cpu.svg" width="18" height="18" align="top" alt="" />&nbsp;stack
+## Facts
 
-`assembly` · `typescript` · `c++` · `python` · `nasm` · `windows` · `linux` · `docker` · `llm` · `stt`
+<div align="center">
+
+| | |
+|:---|:---|
+| **kura binary** | ~21 KB — entire compiler in NASM x86-64 |
+| **repo language** | ~96% Assembly on GitHub |
+| **compile-time network** | none — ever |
+| **one `kura compile`** | `.env` + SQL + JSON + TypeScript + deploy script |
+| **crypto** | ChaCha20-Poly1305 in ASM, no OpenSSL dependency |
+| **`kura init`** | stamps every scaffold file: *Kyto was here* |
+| **platforms** | Windows + Linux from one ASM codebase |
+| **day job** | doesn't exist — independent coder |
+
+</div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/icons/terminal.svg" width="18" height="18" align="top" alt="" />&nbsp;right now
+## Stack
 
-```
-> hacking on kyto — asm compiler, ci, wiki, releases
-> speech-to-text UX experiments
-> low-level windows rabbit holes
-```
+<div align="center">
 
----
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=transparent&hide_border=true&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github&perline=9" alt="stack" />
 
 <br />
 
-<sub>MIT where noted. white dot in favicons = firm handshake, not a bug.</sub>
+`Assembly` · `TypeScript` · `C++` · `Python` · `NASM` · `Windows` · `Linux` · `Docker` · `LLM` · `STT`
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=voidmute&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmute&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=voidmute&theme=tokyo-night&hide_border=true&area=true&custom_title=voidmute%20activity" width="100%" alt="activity" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>MIT where noted · white dot in favicons = firm handshake, not a bug</sub>
+
+</div>
