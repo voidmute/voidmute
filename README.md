@@ -113,86 +113,83 @@ in-game overlay menu
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<b>~21 KB</b>
+<img src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" width="48" alt="kura" />
+<br /><br />
+<b>Compiler</b>
 <br />
-<small>kura binary</small>
+<small>the whole thing in ASM</small>
+<br /><br />
+<b>~21 KB</b> kura binary
 <br />
-entire compiler in NASM x86-64
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<b>~96%</b>
+NASM x86-64, no runtime
+<br /><br />
+<b>~96%</b> Assembly
 <br />
-<small>repo language</small>
-<br />
-Assembly on GitHub
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<b>zero</b>
-<br />
-<small>compile-time network</small>
+on GitHub language stats
+<br /><br />
+<b>zero</b> compile-time network
 <br />
 none - ever
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<b>one compile</b>
+<br /><br />
+<b>One compile</b>
 <br />
 <small>`kura compile`</small>
-<br />
-`.env` · SQL · JSON · TS · deploy
+<br /><br />
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
+```text
+.env
+seed.sql
+users.json
+src/generated/*
+scripts/generated/*
+```
 
-<b>ChaCha20-Poly1305</b>
 <br />
-<small>crypto in ASM</small>
+ChaCha20-Poly1305 in ASM
 <br />
 no OpenSSL dependency
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<b>Windows + Linux</b>
+<br /><br />
+<b>Ships everywhere</b>
 <br />
-<small>platforms</small>
+<small>one codebase</small>
+<br /><br />
+Windows + Linux
 <br />
-one ASM codebase
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<b>Kyto was here</b>
+same NASM sources
+<br /><br />
+<b>`kura init`</b>
 <br />
-<small>`kura init`</small>
+stamps every scaffold file
 <br />
-stamped on every scaffold file
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<b>independent coder</b>
+<i>Kyto was here</i>
+<br /><br />
+day job: doesn't exist
 <br />
-<small>day job</small>
-<br />
-doesn't exist
+independent coder
 
 </td>
 </tr>
 </table>
+
+<br />
+
+[![21 KB](https://img.shields.io/badge/21_KB-kura_binary-21262d?style=flat-square)](https://github.com/voidmute/kyto)
+[![96% ASM](https://img.shields.io/badge/96%25-Assembly-21262d?style=flat-square)](https://github.com/voidmute/kyto)
+[![0 net](https://img.shields.io/badge/0-compile--time_network-21262d?style=flat-square)](https://github.com/voidmute/kyto)
+[![ChaCha20](https://img.shields.io/badge/ChaCha20--Poly1305-in_ASM-21262d?style=flat-square)](https://github.com/voidmute/kyto)
+[![Kyto was here](https://img.shields.io/badge/Kyto_was_here-kura_init-21262d?style=flat-square)](https://github.com/voidmute/kyto)
+
+<br />
 
 <img src="https://i.imgur.com/VHABnxT.gif" height="24" alt="" />
 
