@@ -1,61 +1,61 @@
-
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/voidmute/Spotti/main/admin/public/favicon.svg" width="72" height="72" alt="voidmute" />
+<img src="https://github.com/voidmute.png" width="96" height="96" alt="voidmute" style="border-radius: 50%;" />
 
-### привет, я **voidmute**
+# voidmute
 
-собираю ботов, голосовой ИИ, веб-админки и утилиты под Windows.  
-больше всего времени уходит на **Discord-сообщества** и всё, что вокруг них крутится.
+**languages, homelab software, and Windows tools — built local-first**
 
-[![Spotti](https://img.shields.io/badge/флагман-Spotti-5865F2)](https://github.com/voidmute/Spotti)
-[![site](https://img.shields.io/badge/site-spottibot.duckdns.org-111111)](https://spottibot.duckdns.org)
+🌍 Solar System, Earth
+
+<br />
+
+[![Kyto](https://img.shields.io/badge/Kyto-privacy--first%20language-111111?style=for-the-badge&logo=github)](https://github.com/voidmute/kyto)
+[![Portal](https://img.shields.io/badge/family--home--portal-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/voidmute/family-home-portal)
+[![Spotti Voice](https://img.shields.io/badge/Spotti--Voice-push--to--talk-5865F2?style=for-the-badge)](https://github.com/voidmute/Spotti-Voice)
 
 </div>
 
-## Чем занимаюсь
+---
 
-- **Discord-боты** - модерация, тикеты, голосовые комнаты, дашборды
-- **Голосовой ИИ** - STT, LLM, TTS, память, низкая задержка в войсе
-- **Веб-админки** - OAuth, выдача доступа, веб-чат, статус сервисов
-- **Инфра** - VPS, nginx, деплой-скрипты, миграции БД
-- **Windows-утилиты** - сканеры и десктопные инструменты (в т.ч. для GTA5RP / RAGE.MP)
+привет — I'm **voidmute**. I build things that stay on your machine: compilers, family infra, voice utilities, and the occasional deep Windows rabbit hole.
 
-## Главный проект
+No telemetry worship. No “sign up to configure your config.” Just software that does a job and gets out of the way.
 
-| | |
-| --- | --- |
-| **[Spotti](https://github.com/voidmute/Spotti)** | Discord-бот с голосовым ИИ и админкой. Монорепо: бот, админ-сайт [spottibot.duckdns.org](https://spottibot.duckdns.org), checker для PC-check, Alembic, тесты. |
-| Стек | Python, Discord.py, голосовой пайплайн (Deepgram / OpenAI, Claude, ElevenLabs), веб-админка, Postgres |
+## Featured
+
+| Project | What it is |
+|:--------|:-----------|
+| **[Kyto](https://github.com/voidmute/kyto)** | A privacy-first config language and **kura** compiler — ~21 KB of NASM x86-64. One `kura compile` emits `.env`, SQL, TypeScript, JSON, and deploy scripts. No network at compile time. |
+| **[family-home-portal](https://github.com/voidmute/family-home-portal)** | Family homelab portal: TOTP auth, files, monitoring, backups. Next.js + Postgres + Redis + Docker + Cloudflare Tunnel. Capacitor mobile app. |
+| **[Spotti-Voice](https://github.com/voidmute/Spotti-Voice)** | Windows push-to-talk speech-to-text — floating pill UI, inject transcribed text into any field. |
+| **[v9](https://github.com/voidmute/v9)** | Desktop tooling for Meccha Chameleon (D3D12 / Windows x64). |
+
+## Kyto in 10 seconds
 
 ```bash
-git clone https://github.com/voidmute/Spotti.git
-cd Spotti
-cp .env.example .env   # ключи только локально
-python deploy.py install && python deploy.py run
+kura init          # Kyto was here — stamped in every scaffold file
+cp .kyto.config.example .kyto.config
+kura compile
 ```
 
-## Ещё в работе (локально)
+→ [Wiki](https://github.com/voidmute/kyto/wiki) · [Releases](https://github.com/voidmute/kyto/releases/latest) · [Container](https://github.com/voidmute/kyto/pkgs/container/kyto)
 
-Публично пока не на GitHub - но это тот же «почерк»:
+## Stack
 
-| Проект | Суть |
-| --- | --- |
-| **JARVIS** | Монорепо: голосовой ассистент (backend + frontend, Bun) |
-| **Multiplayer Paint** | Совместный рисунок в браузере в реальном времени |
-| **Hands Recognition** | Распознавание жестов / рук |
-| **Spotti Checker** | Уже внутри [Spotti](https://github.com/voidmute/Spotti/tree/main/checker) - античит-скан под Windows |
+`Assembly` · `TypeScript` · `C++` · `Python` · `Next.js` · `PostgreSQL` · `Docker` · `Windows` · `Linux` · `LLM` · `STT/TTS`
 
-## Стек (коротко)
+## Currently
 
-`Python` · `TypeScript` · `Discord` · `Postgres` · `Alembic` · `nginx` · `VPS` · `Windows` · `LLM` · `STT/TTS`
+- Shipping **Kyto** — ASM-only compiler, CI, releases, wiki
+- Running **family-home-portal** on a homelab VPS with Kyto-generated config
+- Tinkering with voice UX and low-level Windows stuff
 
-## Связь
+## Stats
 
-- Сайт проекта: [spottibot.duckdns.org](https://spottibot.duckdns.org)
-- Репозиторий: [github.com/voidmute/Spotti](https://github.com/voidmute/Spotti)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=radical&hide_border=true" alt="voidmute stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmute&layout=compact&theme=radical&hide_border=true" alt="top languages" />
 
 ---
 
-<sub>MIT там, где написано MIT. Белая точка в favicon - фирменный знак, не баг.</sub>
+<sub>MIT where noted. White dot in favicons is a firm handshake, not a bug.</sub>
