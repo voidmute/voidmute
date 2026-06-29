@@ -36,49 +36,74 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" width="72" alt="Kyto" />
+<td align="center" width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" width="64" alt="Kyto" />
 <br /><br />
 <b><a href="https://github.com/voidmute/kyto">Kyto</a></b>
 <br />
 <small>Programming Language</small>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/voidmute/Spotti-Voice/main/assets/spottivoice.png" width="72" alt="Spotti-Voice" />
 <br /><br />
-<b><a href="https://github.com/voidmute/Spotti-Voice">Spotti-Voice</a></b>
+privacy-first config language
 <br />
-<small>Speech to Text</small>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/voidmute/v9/main/assets/logo-transparent.png" width="72" alt="v9" />
+<b>kura</b> compiler · ~21 KB NASM x86-64
+<br />
+one compile → .env, SQL, TS, JSON, deploy
+<br />
+no network at compile time
 <br /><br />
-<b><a href="https://github.com/voidmute/v9">v9</a></b>
-<br />
-<small>Cheat Menu for MH</small>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-**Kyto** - privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` outputs `.env`, SQL, TypeScript, JSON, and a deploy script. no network at compile time.
 
 ```bash
 kura init && cp .kyto.config.example .kyto.config && kura compile
 ```
 
-[wiki](https://github.com/voidmute/kyto/wiki) | [releases](https://github.com/voidmute/kyto/releases/latest) | [container](https://github.com/voidmute/kyto/pkgs/container/kyto)
-
 <br />
 
-**Spotti-Voice** - speech-to-text for Windows. floating pill UI, talk, get text, inject it anywhere. STT, not a SaaS wrapper.
+[![wiki](https://img.shields.io/badge/wiki-read-21262d?style=flat-square)](https://github.com/voidmute/kyto/wiki)
+[![releases](https://img.shields.io/badge/releases-download-21262d?style=flat-square)](https://github.com/voidmute/kyto/releases/latest)
+[![container](https://img.shields.io/badge/container-ghcr.io-21262d?style=flat-square)](https://github.com/voidmute/kyto/pkgs/container/kyto)
 
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/voidmute/Spotti-Voice/main/assets/spottivoice.png" width="64" alt="Spotti-Voice" />
+<br /><br />
+<b><a href="https://github.com/voidmute/Spotti-Voice">Spotti-Voice</a></b>
 <br />
+<small>Speech to Text</small>
+<br /><br />
+speech-to-text for Windows
+<br /><br />
+floating pill UI
+<br />
+talk, get text, inject anywhere
+<br /><br />
+STT, not a SaaS wrapper
 
-**v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/voidmute/v9/main/assets/logo-transparent.png" width="64" alt="v9" />
+<br /><br />
+<b><a href="https://github.com/voidmute/v9">v9</a></b>
+<br />
+<small>Cheat Menu for MH</small>
+<br /><br />
+desktop tooling for
+<br />
+Meccha Chameleon
+<br /><br />
+D3D12 · Windows x64
+<br />
+in-game overlay menu
+
+</td>
+</tr>
+</table>
+
+<img src="https://i.imgur.com/VHABnxT.gif" height="24" alt="" />
+
+</div>
 
 ---
 
