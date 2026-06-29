@@ -107,26 +107,94 @@ in-game overlay menu
 
 ---
 
-<div align="center">
-
-<img src="https://i.imgur.com/VHABnxT.gif" height="28" alt="" />
-
-</div>
-
 ## Facts
 
 <div align="center">
 
-| | |
-|:---|:---|
-| **kura binary** | ~21 KB - entire compiler in NASM x86-64 |
-| **repo language** | ~96% Assembly on GitHub |
-| **compile-time network** | none - ever |
-| **one `kura compile`** | `.env` + SQL + JSON + TypeScript + deploy script |
-| **crypto** | ChaCha20-Poly1305 in ASM, no OpenSSL dependency |
-| **`kura init`** | stamps every scaffold file: *Kyto was here* |
-| **platforms** | Windows + Linux from one ASM codebase |
-| **day job** | doesn't exist - independent coder |
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<b>~21 KB</b>
+<br />
+<small>kura binary</small>
+<br />
+entire compiler in NASM x86-64
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<b>~96%</b>
+<br />
+<small>repo language</small>
+<br />
+Assembly on GitHub
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<b>zero</b>
+<br />
+<small>compile-time network</small>
+<br />
+none - ever
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<b>one compile</b>
+<br />
+<small>`kura compile`</small>
+<br />
+`.env` · SQL · JSON · TS · deploy
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<b>ChaCha20-Poly1305</b>
+<br />
+<small>crypto in ASM</small>
+<br />
+no OpenSSL dependency
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<b>Windows + Linux</b>
+<br />
+<small>platforms</small>
+<br />
+one ASM codebase
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<b>Kyto was here</b>
+<br />
+<small>`kura init`</small>
+<br />
+stamped on every scaffold file
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<b>independent coder</b>
+<br />
+<small>day job</small>
+<br />
+doesn't exist
+
+</td>
+</tr>
+</table>
+
+<img src="https://i.imgur.com/VHABnxT.gif" height="24" alt="" />
 
 </div>
 
