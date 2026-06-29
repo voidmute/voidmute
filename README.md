@@ -4,11 +4,9 @@
 
 # voidmute
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=i+write+compilers+in+NASM;speech-to-text+for+Windows;no+standups%2C+just+ship;~21+KB+compiler+in+assembly;local-first%2C+no+telemetry;Kyto+was+here;windows+tools+at+2am;one+kura+compile%2C+many+artifacts;privacy+is+architecture%2C+not+marketing" alt="typing" />
+
 **independent coder** - assembly, windows gremlins, local-first tools
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=540&lines=i+write+compilers+in+NASM;speech-to-text+for+Windows;no+standups%2C+just+ship" alt="typing" />
-
-<br />
 
 [![Kyto](https://img.shields.io/badge/kyto-privacy--first%20language-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/voidmute/kyto)
 [![Spotti-Voice](https://img.shields.io/badge/spotti--voice-speech--to--text-5865F2?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/Spotti-Voice)
