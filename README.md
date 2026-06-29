@@ -14,9 +14,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
-</div>
+<br />
 
 <div align="center">
 
@@ -26,11 +24,9 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule-accent.svg" alt="" width="92%" />
-</div>
+<br />
 
-## Projects
+<p align="center"><code>// projects</code></p>
 
 <div align="center">
 
@@ -80,11 +76,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
-</div>
+<br />
 
-## Facts
+<p align="center"><code>; facts</code></p>
 
 <div align="center">
 
@@ -101,11 +95,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule-accent.svg" alt="" width="92%" />
-</div>
+<br />
 
-## Stack
+<p align="center"><code># stack</code></p>
 
 <div align="center">
 
@@ -117,11 +109,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
-</div>
+<br />
 
-## Stats
+<p align="center"><code>-- stats</code></p>
 
 <div align="center">
 
@@ -135,9 +125,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
-</div>
+<br />
 
 <div align="center">
 
