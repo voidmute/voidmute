@@ -2,11 +2,13 @@
 
 <img src="https://github.com/voidmute.png" width="100" height="100" alt="voidmute" style="border-radius: 50%;" />
 
-<h1>voidmute</h1>
+# voidmute
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=Kyto+was+here;windows+tools+at+2am;no+standups%2C+just+ship;assembly+at+midnight;caffeine-driven+development;it+compiles+on+my+machine;your+config+hates+the+cloud;compiler+goes+brr;3am+and+still+typing" alt="typing" />
 
 **independent coder** - assembly, windows gremlins, local-first tools
+
+<br />
 
 [![Kyto](https://img.shields.io/badge/kyto-privacy--first%20language-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/voidmute/kyto)
 [![Spotti-Voice](https://img.shields.io/badge/spotti--voice-speech--to--text-5865F2?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/Spotti-Voice)
@@ -16,15 +18,19 @@
 
 not a company. not an agency. one person building software that runs **local** and stays **yours**.
 
+<br />
+
 i like NASM, weird Windows APIs, and tools that don't phone home.
 
 <br />
 
-<img src="https://i.imgur.com/VHABnxT.gif" alt="" />
+<img src="https://i.imgur.com/VHABnxT.gif" height="32" alt="" />
 
 <br />
 
-<h3>Projects</h3>
+<b>Projects</b>
+
+<br /><br />
 
 <table>
 <tr>
@@ -52,8 +58,6 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 </tr>
 </table>
 
-</div>
-
 <br />
 
 **Kyto** - privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` outputs `.env`, SQL, TypeScript, JSON, and a deploy script. no network at compile time.
@@ -72,11 +76,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
-<br />
+<br /><br />
 
-<div align="center">
+<b>Facts</b>
 
-<h3>Facts</h3>
+<br /><br />
 
 | | |
 |:---|:---|
@@ -89,9 +93,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 | **platforms** | Windows + Linux from one ASM codebase |
 | **day job** | doesn't exist - independent coder |
 
-<br />
+<br /><br />
 
-<h3>Stack</h3>
+<b>Stack</b>
+
+<br /><br />
 
 <img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github&perline=9" alt="stack" />
 
@@ -99,9 +105,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 `Assembly` `TypeScript` `C++` `Python` `NASM` `Windows` `Linux` `Docker` `LLM` `STT`
 
-<br />
+<br /><br />
 
-<h3>Stats</h3>
+<b>Stats</b>
+
+<br /><br />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=voidmute&theme=tokyonight&hide_border=true" alt="streak" />
@@ -111,7 +119,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidmute&theme=tokyo-night&hide_border=true&area=true&custom_title=voidmute%20activity" width="100%" alt="activity" />
 
-<br />
+<br /><br />
 
 <sub>MIT where noted - white dot in favicons = firm handshake, not a bug</sub>
 
