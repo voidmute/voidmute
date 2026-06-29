@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/glow.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/wave.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule-accent.svg" alt="" width="92%" />
 </div>
 
 ## Projects
@@ -64,13 +64,13 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 
 <br />
 
-**Kyto** - privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` → `.env`, SQL, TypeScript, JSON, deploy script. no network at compile time.
+**Kyto** - privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` outputs `.env`, SQL, TypeScript, JSON, and a deploy script. no network at compile time.
 
 ```bash
 kura init && cp .kyto.config.example .kyto.config && kura compile
 ```
 
-[wiki](https://github.com/voidmute/kyto/wiki) · [releases](https://github.com/voidmute/kyto/releases/latest) · [container](https://github.com/voidmute/kyto/pkgs/container/kyto)
+[wiki](https://github.com/voidmute/kyto/wiki) | [releases](https://github.com/voidmute/kyto/releases/latest) | [container](https://github.com/voidmute/kyto/pkgs/container/kyto)
 
 <br />
 
@@ -81,7 +81,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/neon.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
 </div>
 
 ## Facts
@@ -102,7 +102,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/wave.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule-accent.svg" alt="" width="92%" />
 </div>
 
 ## Stack
@@ -113,12 +113,12 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 <br />
 
-`Assembly` · `TypeScript` · `C++` · `Python` · `NASM` · `Windows` · `Linux` · `Docker` · `LLM` · `STT`
+`Assembly` `TypeScript` `C++` `Python` `NASM` `Windows` `Linux` `Docker` `LLM` `STT`
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/dots.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
 </div>
 
 ## Stats
@@ -136,11 +136,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/neon.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/rule.svg" alt="" width="92%" />
 </div>
 
 <div align="center">
 
-<sub>MIT where noted · white dot in favicons = firm handshake, not a bug</sub>
+<sub>MIT where noted - white dot in favicons = firm handshake, not a bug</sub>
 
 </div>
