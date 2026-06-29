@@ -14,23 +14,25 @@
 [![Spotti-Voice](https://img.shields.io/badge/spotti--voice-speech--to--text-5865F2?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/Spotti-Voice)
 [![v9](https://img.shields.io/badge/v9-desktop%20tools-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/v9)
 
-<br />
+</div>
+
+---
+
+<div align="center">
 
 not a company. not an agency. one person building software that runs **local** and stays **yours**.
 
-<br />
-
 i like NASM, weird Windows APIs, and tools that don't phone home.
 
-<br />
+<img src="https://i.imgur.com/VHABnxT.gif" height="28" alt="" />
 
-<img src="https://i.imgur.com/VHABnxT.gif" height="32" alt="" />
+</div>
 
-<br />
+---
 
-<b>Projects</b>
+## Projects
 
-<br /><br />
+<div align="center">
 
 <table>
 <tr>
@@ -58,6 +60,8 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 </tr>
 </table>
 
+</div>
+
 <br />
 
 **Kyto** - privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` outputs `.env`, SQL, TypeScript, JSON, and a deploy script. no network at compile time.
@@ -76,11 +80,17 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
-<br /><br />
+---
 
-<b>Facts</b>
+<div align="center">
 
-<br /><br />
+<img src="https://i.imgur.com/VHABnxT.gif" height="28" alt="" />
+
+</div>
+
+## Facts
+
+<div align="center">
 
 | | |
 |:---|:---|
@@ -93,11 +103,13 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 | **platforms** | Windows + Linux from one ASM codebase |
 | **day job** | doesn't exist - independent coder |
 
-<br /><br />
+</div>
 
-<b>Stack</b>
+---
 
-<br /><br />
+## Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github&perline=9" alt="stack" />
 
@@ -105,11 +117,19 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 `Assembly` `TypeScript` `C++` `Python` `NASM` `Windows` `Linux` `Docker` `LLM` `STT`
 
-<br /><br />
+</div>
 
-<b>Stats</b>
+---
 
-<br /><br />
+<div align="center">
+
+<img src="https://i.imgur.com/VHABnxT.gif" height="28" alt="" />
+
+</div>
+
+## Stats
+
+<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=voidmute&theme=tokyonight&hide_border=true" alt="streak" />
@@ -119,7 +139,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidmute&theme=tokyo-night&hide_border=true&area=true&custom_title=voidmute%20activity" width="100%" alt="activity" />
 
-<br /><br />
+</div>
+
+---
+
+<div align="center">
 
 <sub>MIT where noted - white dot in favicons = firm handshake, not a bug</sub>
 
