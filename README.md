@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/glow.svg" alt="" width="100%" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/wave.svg" alt="" width="100%" />
 </div>
 
 ## Projects
@@ -81,7 +81,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/neon.svg" alt="" width="100%" />
 </div>
 
 ## Facts
@@ -102,7 +102,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/wave.svg" alt="" width="100%" />
 </div>
 
 ## Stack
@@ -118,7 +118,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/dots.svg" alt="" width="100%" />
 </div>
 
 ## Stats
@@ -136,7 +136,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidmute/voidmute/main/assets/dividers/neon.svg" alt="" width="100%" />
 </div>
 
 <div align="center">
