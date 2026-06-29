@@ -205,7 +205,7 @@ independent coder
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows&perline=5" height="96" alt="" />
+<img src="https://skillicons.dev/icons?i=ts,c,cpp,py,linux,windows&perline=6" height="96" alt="" />
 
 <br />
 
