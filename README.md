@@ -201,7 +201,19 @@ independent coder
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github,openai&perline=9" height="96" alt="" />
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows&perline=5" height="96" alt="" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,git,github,openai&perline=5" height="96" alt="" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
