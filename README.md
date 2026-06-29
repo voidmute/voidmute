@@ -4,9 +4,9 @@
 
 # voidmute
 
-**independent coder** — assembly, windows gremlins, local-first tools
+**independent coder** - assembly, windows gremlins, local-first tools
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=i+write+compilers+in+NASM;speech-to-text+for+Windows;no+standups%2C+just+ship" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=540&lines=i+write+compilers+in+NASM;speech-to-text+for+Windows;no+standups%2C+just+ship" alt="typing" />
 
 <br />
 
@@ -42,14 +42,14 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 <small>language + kura compiler</small>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/windowsterminal/58a6ff" width="48" alt="Spotti-Voice" />
+<img src="https://raw.githubusercontent.com/voidmute/Spotti-Voice/main/assets/spottivoice.png" width="72" alt="Spotti-Voice" />
 <br /><br />
 <b><a href="https://github.com/voidmute/Spotti-Voice">Spotti-Voice</a></b>
 <br />
 <small>speech-to-text · Windows</small>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/cplusplus/58a6ff" width="48" alt="v9" />
+<img src="https://raw.githubusercontent.com/voidmute/v9/main/assets/logo-transparent.png" width="72" alt="v9" />
 <br /><br />
 <b><a href="https://github.com/voidmute/v9">v9</a></b>
 <br />
@@ -62,7 +62,7 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 
 <br />
 
-**Kyto** — privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` → `.env`, SQL, TypeScript, JSON, deploy script. no network at compile time.
+**Kyto** - privacy-first config language. **kura** is the compiler (~21 KB NASM x86-64). one `kura compile` → `.env`, SQL, TypeScript, JSON, deploy script. no network at compile time.
 
 ```bash
 kura init && cp .kyto.config.example .kyto.config && kura compile
@@ -72,11 +72,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 <br />
 
-**Spotti-Voice** — speech-to-text for Windows. floating pill UI, talk, get text, inject it anywhere. STT, not a SaaS wrapper.
+**Spotti-Voice** - speech-to-text for Windows. floating pill UI, talk, get text, inject it anywhere. STT, not a SaaS wrapper.
 
 <br />
 
-**v9** — desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
+**v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
 ---
 
@@ -86,14 +86,14 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 | | |
 |:---|:---|
-| **kura binary** | ~21 KB — entire compiler in NASM x86-64 |
+| **kura binary** | ~21 KB - entire compiler in NASM x86-64 |
 | **repo language** | ~96% Assembly on GitHub |
-| **compile-time network** | none — ever |
+| **compile-time network** | none - ever |
 | **one `kura compile`** | `.env` + SQL + JSON + TypeScript + deploy script |
 | **crypto** | ChaCha20-Poly1305 in ASM, no OpenSSL dependency |
 | **`kura init`** | stamps every scaffold file: *Kyto was here* |
 | **platforms** | Windows + Linux from one ASM codebase |
-| **day job** | doesn't exist — independent coder |
+| **day job** | doesn't exist - independent coder |
 
 </div>
 
