@@ -4,7 +4,7 @@
 
 # voidmute
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=i+write+compilers+in+NASM;speech-to-text+for+Windows;no+standups%2C+just+ship;~21+KB+compiler+in+assembly;local-first%2C+no+telemetry;Kyto+was+here;windows+tools+at+2am;one+kura+compile%2C+many+artifacts;privacy+is+architecture%2C+not+marketing" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=Kyto+was+here;windows+tools+at+2am;no+standups%2C+just+ship;assembly+at+midnight;caffeine-driven+development;it+compiles+on+my+machine;your+config+hates+the+cloud;compiler+goes+brr;3am+and+still+typing;white+dot+in+favicon+%3D+handshake" alt="typing" />
 
 **independent coder** - assembly, windows gremlins, local-first tools
 
@@ -37,21 +37,21 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 <br /><br />
 <b><a href="https://github.com/voidmute/kyto">Kyto</a></b>
 <br />
-<small>language + kura compiler</small>
+<small>Programming Language</small>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/voidmute/Spotti-Voice/main/assets/spottivoice.png" width="72" alt="Spotti-Voice" />
 <br /><br />
 <b><a href="https://github.com/voidmute/Spotti-Voice">Spotti-Voice</a></b>
 <br />
-<small>speech-to-text · Windows</small>
+<small>Speech to Text</small>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/voidmute/v9/main/assets/logo-transparent.png" width="72" alt="v9" />
 <br /><br />
 <b><a href="https://github.com/voidmute/v9">v9</a></b>
 <br />
-<small>D3D12 · x64 overlay</small>
+<small>Cheat Menu for MH</small>
 </td>
 </tr>
 </table>
