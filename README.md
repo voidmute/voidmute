@@ -201,11 +201,103 @@ independent coder
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github&perline=9" alt="stack" />
+<table>
+<tr>
+<td align="center" width="11%" valign="top">
 
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
 <br />
+<small>TypeScript</small>
 
-`Assembly` `TypeScript` `C++` `Python` `NASM` `Windows` `Linux` `Docker` `LLM` `STT`
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+<br />
+<small>C++</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+<br />
+<small>Python</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+<br />
+<small>Linux</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
+<br />
+<small>Windows</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<br />
+<small>Docker</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+<br />
+<small>PostgreSQL</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+<br />
+<small>Git</small>
+
+</td>
+<td align="center" width="11%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+<br />
+<small>GitHub</small>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top" colspan="2">
+
+<img src="https://img.shields.io/badge/ASM-21262d?style=flat-square" height="20" alt="Assembly" />
+<br />
+<small>Assembly</small>
+
+</td>
+<td align="center" width="25%" valign="top" colspan="2">
+
+<img src="https://img.shields.io/badge/NASM-21262d?style=flat-square" height="20" alt="NASM" />
+<br />
+<small>NASM</small>
+
+</td>
+<td align="center" width="25%" valign="top" colspan="3">
+
+<img src="https://img.shields.io/badge/LLM-21262d?style=flat-square" height="20" alt="LLM" />
+<br />
+<small>LLM</small>
+
+</td>
+<td align="center" width="25%" valign="top" colspan="2">
+
+<img src="https://img.shields.io/badge/STT-21262d?style=flat-square" height="20" alt="STT" />
+<br />
+<small>STT</small>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -221,9 +313,25 @@ independent coder
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=voidmute&theme=tokyonight&hide_border=true" alt="streak" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmute&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+<table>
+<tr>
+<td align="center" valign="top">
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=voidmute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+
+</td>
+<td align="center" valign="top">
+
+<img height="165" src="https://streak-stats.demolab.com/?user=voidmute&theme=tokyonight&hide_border=true" alt="streak" />
+
+</td>
+<td align="center" valign="top">
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=voidmute&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+
+</td>
+</tr>
+</table>
 
 <br />
 
