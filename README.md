@@ -2,7 +2,7 @@
 
 <img src="https://github.com/voidmute.png" width="100" height="100" alt="voidmute" style="border-radius: 50%;" />
 
-# voidmute
+<h1>voidmute</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=Kyto+was+here;windows+tools+at+2am;no+standups%2C+just+ship;assembly+at+midnight;caffeine-driven+development;it+compiles+on+my+machine;your+config+hates+the+cloud;compiler+goes+brr;3am+and+still+typing" alt="typing" />
 
@@ -12,27 +12,19 @@
 [![Spotti-Voice](https://img.shields.io/badge/spotti--voice-speech--to--text-5865F2?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/Spotti-Voice)
 [![v9](https://img.shields.io/badge/v9-desktop%20tools-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/voidmute/v9)
 
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
-</div>
-
-<div align="center">
+<br />
 
 not a company. not an agency. one person building software that runs **local** and stays **yours**.
 
 i like NASM, weird Windows APIs, and tools that don't phone home.
 
-</div>
+<br />
 
-<div align="center">
-  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
-</div>
+<img src="https://i.imgur.com/VHABnxT.gif" alt="" />
 
-## Projects
+<br />
 
-<div align="center">
+<h3>Projects</h3>
 
 <table>
 <tr>
@@ -80,13 +72,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
-<div align="center">
-  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
-</div>
-
-## Facts
+<br />
 
 <div align="center">
+
+<h3>Facts</h3>
 
 | | |
 |:---|:---|
@@ -99,15 +89,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 | **platforms** | Windows + Linux from one ASM codebase |
 | **day job** | doesn't exist - independent coder |
 
-</div>
+<br />
 
-<div align="center">
-  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
-</div>
-
-## Stack
-
-<div align="center">
+<h3>Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github&perline=9" alt="stack" />
 
@@ -115,15 +99,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 `Assembly` `TypeScript` `C++` `Python` `NASM` `Windows` `Linux` `Docker` `LLM` `STT`
 
-</div>
+<br />
 
-<div align="center">
-  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
-</div>
-
-## Stats
-
-<div align="center">
+<h3>Stats</h3>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidmute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=voidmute&theme=tokyonight&hide_border=true" alt="streak" />
@@ -133,13 +111,7 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidmute&theme=tokyo-night&hide_border=true&area=true&custom_title=voidmute%20activity" width="100%" alt="activity" />
 
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
-</div>
-
-<div align="center">
+<br />
 
 <sub>MIT where noted - white dot in favicons = firm handshake, not a bug</sub>
 
