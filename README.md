@@ -201,103 +201,10 @@ independent coder
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-<br />
-<small>TypeScript</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-<br />
-<small>C++</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-<br />
-<small>Python</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-<br />
-<small>Linux</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
-<br />
-<small>Windows</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-<br />
-<small>Docker</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-<br />
-<small>PostgreSQL</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-<br />
-<small>Git</small>
-
-</td>
-<td align="center" width="11%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-<br />
-<small>GitHub</small>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top" colspan="2">
-
-<img src="https://img.shields.io/badge/ASM-21262d?style=flat-square" height="20" alt="Assembly" />
-<br />
-<small>Assembly</small>
-
-</td>
-<td align="center" width="25%" valign="top" colspan="2">
-
-<img src="https://img.shields.io/badge/NASM-21262d?style=flat-square" height="20" alt="NASM" />
-<br />
-<small>NASM</small>
-
-</td>
-<td align="center" width="25%" valign="top" colspan="3">
-
-<img src="https://img.shields.io/badge/LLM-21262d?style=flat-square" height="20" alt="LLM" />
-<br />
-<small>LLM</small>
-
-</td>
-<td align="center" width="25%" valign="top" colspan="2">
-
-<img src="https://img.shields.io/badge/STT-21262d?style=flat-square" height="20" alt="STT" />
-<br />
-<small>STT</small>
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" height="48" alt="" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github,openai&perline=9" height="48" alt="" />
+<img src="https://raw.githubusercontent.com/voidmute/Spotti-Voice/main/assets/spottivoice.png" height="48" alt="" />
+<img src="https://raw.githubusercontent.com/voidmute/v9/main/assets/logo-transparent.png" height="48" alt="" />
 
 </div>
 
