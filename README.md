@@ -201,7 +201,7 @@ independent coder
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github,openai&perline=9" height="48" alt="" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github,openai&perline=9" height="96" alt="" />
 
 </div>
 
