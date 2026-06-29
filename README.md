@@ -4,7 +4,7 @@
 
 # voidmute
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=Kyto+was+here;windows+tools+at+2am;no+standups%2C+just+ship;assembly+at+midnight;caffeine-driven+development;it+compiles+on+my+machine;your+config+hates+the+cloud;compiler+goes+brr;3am+and+still+typing;white+dot+in+favicon+%3D+handshake" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=60&lines=Kyto+was+here;windows+tools+at+2am;no+standups%2C+just+ship;assembly+at+midnight;caffeine-driven+development;it+compiles+on+my+machine;your+config+hates+the+cloud;compiler+goes+brr;3am+and+still+typing" alt="typing" />
 
 **independent coder** - assembly, windows gremlins, local-first tools
 
@@ -14,7 +14,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+</div>
 
 <div align="center">
 
@@ -24,7 +26,9 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+</div>
 
 ## Projects
 
@@ -76,7 +80,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" alt="" width="100%" />
+</div>
 
 ## Facts
 
@@ -95,7 +101,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+</div>
 
 ## Stack
 
@@ -109,7 +117,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="" width="100%" />
+</div>
 
 ## Stats
 
@@ -125,7 +135,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" alt="" width="100%" />
+</div>
 
 <div align="center">
 
