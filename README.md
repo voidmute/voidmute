@@ -201,10 +201,7 @@ independent coder
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/voidmute/kyto/main/icons/kyto.png" height="48" alt="" />
 <img src="https://skillicons.dev/icons?i=ts,cpp,py,linux,windows,docker,postgres,git,github,openai&perline=9" height="48" alt="" />
-<img src="https://raw.githubusercontent.com/voidmute/Spotti-Voice/main/assets/spottivoice.png" height="48" alt="" />
-<img src="https://raw.githubusercontent.com/voidmute/v9/main/assets/logo-transparent.png" height="48" alt="" />
 
 </div>
 
