@@ -14,7 +14,9 @@
 
 </div>
 
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
+</div>
 
 <div align="center">
 
@@ -24,9 +26,11 @@ i like NASM, weird Windows APIs, and tools that don't phone home.
 
 </div>
 
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
+</div>
 
-<p align="center"><code>// projects</code></p>
+## Projects
 
 <div align="center">
 
@@ -76,9 +80,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 **v9** - desktop tooling for Meccha Chameleon. in-game overlay menu on Windows x64.
 
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
+</div>
 
-<p align="center"><code>; facts</code></p>
+## Facts
 
 <div align="center">
 
@@ -95,9 +101,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
+</div>
 
-<p align="center"><code># stack</code></p>
+## Stack
 
 <div align="center">
 
@@ -109,9 +117,11 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
+</div>
 
-<p align="center"><code>-- stats</code></p>
+## Stats
 
 <div align="center">
 
@@ -125,7 +135,9 @@ kura init && cp .kyto.config.example .kyto.config && kura compile
 
 </div>
 
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/VHABnxT.gif" width="100%" alt="" />
+</div>
 
 <div align="center">
 
